@@ -1,1 +1,6 @@
+<<<<<<< HEAD
 scripts/*
+=======
+.idea/*
+scripts/*
+>>>>>>> release-v1.0.0
